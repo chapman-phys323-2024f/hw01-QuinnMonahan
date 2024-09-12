@@ -1,7 +1,7 @@
 # PHYS323 HW 01
 
 **Author:** 
-CHANGEME
+Quinn Monahan
 
 ## Specification
 
@@ -15,7 +15,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+I have learned how to format markdown files this will alow me to write other files profesionally in he future.
 
 ## Honor Pledge
 
@@ -26,4 +26,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Quinn Monahan**
